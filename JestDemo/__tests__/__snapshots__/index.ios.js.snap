@@ -23,7 +23,7 @@ exports[`renders correctly 1`] = `
       }
     }
   >
-    Welcome to React Native!
+    Welcome to React Native!!!
   </Text>
   <Text
     accessible={true}
@@ -38,23 +38,6 @@ exports[`renders correctly 1`] = `
     }
   >
     To get started, edit index.ios.js
-  </Text>
-  <Text
-    accessible={true}
-    allowFontScaling={true}
-    ellipsizeMode="tail"
-    style={
-      Object {
-        "color": "#333333",
-        "marginBottom": 5,
-        "textAlign": "center",
-      }
-    }
-  >
-    Press Cmd+R to reload,
-    
-    
-    Cmd+D or shake for dev menu
   </Text>
   <View
     accessibilityComponentType="button"
